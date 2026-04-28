@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "brand_name": "CognitoStudy",
+  "website_url": "https://cognitostudies.com",
+  "extracted_at": "2026-04-28T00:00:00Z",
+  "extraction_note": "Manual extraction — site returned 403. Profile built from user-provided product context and EdTech/AI app design conventions.",
+  "voice": {
+    "formal_casual": 7,
+    "rational_emotional": 5,
+    "playful_serious": 5,
+    "bold_subtle": 8,
+    "traditional_innovative": 9,
+    "expert_accessible": 7,
+    "descriptors": ["directo", "motivador", "tecnológico-cercano"]
+  },
+  "colors": {
+    "primary": "#6C63FF",
+    "secondary": ["#00C9A7", "#3B82F6"],
+    "forbidden": ["#FF0000"],
+    "background": "#0F0F1A",
+    "text": "#F1F1F1"
+  },
+  "typography": {
+    "heading_font": "Inter",
+    "body_font": "Inter",
+    "pairing_descriptor": "Modern geometric sans-serif — limpio, legible, digital-native"
+  },
+  "imagery": {
+    "style": "mixed — UI screenshots + illustration + minimal photography",
+    "subjects": ["estudiantes jóvenes", "interfaces de app", "libros y apuntes transformados", "cerebro/conocimiento visual"],
+    "composition": "clean, high contrast, dark background with bright accent elements — típico de product-led SaaS apps",
+    "forbidden": ["stock photos anticuadas", "imágenes de aulas formales", "iconografía corporativa B2B"]
+  },
+  "aesthetic": {
+    "mood_keywords": ["inteligente", "eficiente", "moderno", "empoderador", "nocturno-digital"],
+    "texture": "minimal",
+    "negative_space": "generous"
+  },
+  "brand_values": [
+    "eficiencia del estudio",
+    "democratizar el aprendizaje con IA",
+    "resultados medibles",
+    "tecnología al servicio del estudiante"
+  ],
+  "target_audience": {
+    "age_range": "18-30",
+    "profession": "Estudiantes universitarios y jóvenes profesionales (España + LATAM)",
+    "pain_points": [
+      "Tiempo excesivo resumiendo apuntes manualmente",
+      "Dificultad para estructurar información de cara a exámenes",
+      "Falta de un método de estudio personalizado y eficiente",
+      "Preparación de oposiciones con temarios enormes"
+    ],
+    "aspirations": [
+      "Aprobar con menos horas de estudio",
+      "Tener un método de estudio que realmente funcione",
+      "Sentirse preparado el día del examen",
+      "Aprovechar la IA para estudiar como lo hacen los mejores"
+    ]
+  },
+  "product_context": {
+    "category": "EdTech / AI Study Assistant",
+    "key_features": ["resúmenes automáticos", "mapas conceptuales", "exámenes de práctica", "flashcards", "plan de estudio personalizado"],
+    "primary_conversion": "registro gratuito",
+    "business_model": "freemium",
+    "competitors": ["NotebookLM", "Quizlet", "Notion", "Algor Education"],
+    "unique_value": "Transforma cualquier apunte en un sistema completo de estudio en segundos"
+  }
+}
